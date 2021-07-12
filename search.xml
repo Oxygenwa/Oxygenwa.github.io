@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Introduce myself</title>
+      <link href="/2021/07/11/my-first-passage/"/>
+      <url>/2021/07/11/my-first-passage/</url>
+      
+        <content type="html"><![CDATA[<h1 id="大家好啊"><a href="#大家好啊" class="headerlink" title="大家好啊"></a>大家好啊</h1><p>我是<strong>爱氧小黄</strong>，一个小憨批。</p><h2 id="我的爱好"><a href="#我的爱好" class="headerlink" title="我的爱好"></a>我的爱好</h2><p>吃喝玩乐、打游戏什么的，学习与我如浮云</p><p>当然我也对一些新奇的东西会研究一点</p><p>在编程方面，我造诣不深。C++学的不够扎实，python也稍懂。不过我还是会用我的所学去干一些事情（详情见“我的项目”）</p><h2 id="为什么要开这个blog"><a href="#为什么要开这个blog" class="headerlink" title="为什么要开这个blog"></a>为什么要开这个blog</h2><p>因为Github Page应该算是一个很好的免费站点吧</p><p>我也想玩这些有趣的东西</p><p>顺便分享分享自己的想法</p><h2 id="我在互联网上发布东西"><a href="#我在互联网上发布东西" class="headerlink" title="我在互联网上发布东西"></a>我在互联网上发布东西</h2><ol><li>bilibili搜索“<strong>爱氧小黄</strong>”</li><li>这个blog</li><li>（时间会带来些什么的）</li></ol><p><img src="https://gitee.com/oxygenwa/my-resources/raw/master/tx.jpg"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/07/11/hello-world/"/>
+      <url>/2021/07/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
